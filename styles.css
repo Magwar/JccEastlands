@@ -16,6 +16,7 @@ body{
     justify-content: space-between;
     align-items: center;
     background-color: rgba(67,19,83,100);
+    /* background-color: black; */
     color: whitesmoke;
     padding: 10px;
 }
